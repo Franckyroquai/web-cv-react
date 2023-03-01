@@ -1,26 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello I'm a big Loulou ;)
-        </p>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* react, material ui, react-html2pdf */}
+      {/* variables css */}
+
+      {/* colonne de gauche */}
+      {/* détails personnels - User */}
+      {/* compétences - skills */}
+      {/* langues - skills */}
+      {/* centres d'intérets - interest */}
+
+      {/* colonne de droite */}
+      {/* profil - profil */}
+      {/* formations - formations */}
+      {/* exp - eexperiences */}
+
+      {/* light/dark mode */}
+      {/* generation pdf */}
     </div>
   );
 }
