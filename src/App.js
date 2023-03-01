@@ -3,6 +3,17 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+
+      <div className="grid__container">
+        <div className="sidebar">
+          sidebar
+        </div>
+        <div className="main">
+          main
+        </div>
+      </div>
+
+      Francky c'est cool ;)
       {/* react, material ui, react-html2pdf */}
       {/* variables css */}
 
