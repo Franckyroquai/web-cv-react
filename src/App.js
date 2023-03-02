@@ -1,4 +1,5 @@
 import './App.css';
+import User from "./components/User"
 
 function App() {
   return (
@@ -6,20 +7,15 @@ function App() {
 
       <div className="grid__container">
         <div className="sidebar">
-          sidebar
+          <User />
         </div>
         <div className="main">
           main
         </div>
       </div>
-      <div class="zozo"></div>
 
-      Francky c'est cool ;)
-      /* react, material ui, react-html2pdf */
-      /* variables css */
-
-      /* colonne de gauche */
-      /* détails personnels - User */
+      {/* react, material ui, react-html2pdf */
+      
       /* compétences - skills */
       /* langues - skills */
       /* centres d'intérets - interest */
@@ -27,10 +23,10 @@ function App() {
       /* colonne de droite */
       /* profil - profil */
       /* formations - formations */
-      /* exp - eexperiences */
+      /* exp - experiences */
 
       /* light/dark mode */
-      /* generation pdf */
+      /* generation pdf */}
     </div>
   );
 }
