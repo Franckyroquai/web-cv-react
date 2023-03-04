@@ -54,12 +54,29 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--spacing-4);
+  font-size: var(--h2-font-size);
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
 a {
   text-decoration: none;
   color: inherit;
 }
 
 p {
+  margin-bottom: var(--spacing-2);
+}
+
+ul {
+  padding-left: 1.3rem;
+}
+
+li {
   margin-bottom: var(--spacing-2);
 }
 
@@ -81,4 +98,19 @@ p {
 
 .main {
   padding: 1.5rem;
+}
+
+/* icons */
+
+.circle {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background-color: var(--circle-color);
+}
+
+.circle-plain {
+  background-color: var(--circle-color-plain);
 }
