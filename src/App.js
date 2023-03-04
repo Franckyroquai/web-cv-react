@@ -1,5 +1,6 @@
 import './App.css';
 import User from "./components/User"
+import Skills from "./components/Skills"
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <div className="grid__container">
         <div className="sidebar">
           <User />
+          <Skills />
         </div>
         <div className="main">
           main
