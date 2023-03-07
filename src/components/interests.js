@@ -8,18 +8,18 @@ function interests() {
   return (
     <div className="skills">
         <h2 className="h2">Centres d'intérêts</h2>
-        <ul>
+        {/* <ul>
             <li>Informatique</li>
             <li>Cinéma</li>
             <li>V.T.T.</li>
             <li>Guitare</li>
-        </ul>
+        </ul> 
         <div className="interests">
             <KeyboardIcon style={{ fontsize: 40 }} />
             <MovieIcon style={{ fontsize: 40 }} />
             <DirectionsBikeIcon style={{ fontsize: 40 }} />
             <MusicNoteIcon style={{ fontsize: 40 }} />
-        </div>
+        </div>*/}
         <div className="user__infos">
             <p className="user__info"><KeyboardIcon />Informatique</p>
             <p className="user__info"><MovieIcon />Cinéma</p>
