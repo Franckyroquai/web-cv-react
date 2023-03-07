@@ -1,6 +1,7 @@
 import './App.css';
 import User from "./components/User"
 import Skills from "./components/Skills"
+import Profil from "./components/Profil"
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
           <Skills />
         </div>
         <div className="main">
-          main
+          <Profil />
         </div>
       </div>
 
