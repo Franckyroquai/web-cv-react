@@ -11,7 +11,7 @@ import EmailIcon from '@mui/icons-material/Email';
         <h1 className="user__name">Franck Monge</h1>
         <p className="user__profession">Développeur Web</p>
         <div className="user__infos">
-            <p className="user__info"><HouseIcon />300 Avenue Amiral Collet <br/> 83000 Toulon</p>
+            <p className="user__info"><HouseIcon />300 Avenue Amiral ColletNiels Bohr <br/>83000 Toulon</p>
             <p className="user__info"><SmartphoneIcon /><a href="tel:+33612647582">06 12 64 75 82</a></p>
             <p className="user__info"><EmailIcon /><a href="mailto:franckyroquai@gmail.com">Franckyroquai@gmail.com</a></p>
             
