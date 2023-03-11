@@ -14,3 +14,7 @@
     font-weight: 300;
     color: var(--date-color);
 }
+
+.grid__mission {
+    margin-bottom: var(--spacing-3);
+}
