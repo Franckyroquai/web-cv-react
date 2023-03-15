@@ -15,7 +15,7 @@ function Experiences({datas}) {
                 <p className="grid__text">{item.text}</p>
                 <ul className="grid__missions">
                 {item.missions.map(mission => (
-                    <li className="grid__mission" key={item.id}>{mission.title}</li>
+                    <li className="grid__mission" key={mission.id}>{mission.title}</li>
                 ))}
 
                 </ul>
