@@ -4,6 +4,8 @@ import Skills from "./components/Skills"
 import Profil from "./components/Profil"
 import FormationsExperiences from "./components/FormationsExperiences";
 import DarkMode from "./components/DarkMode"
+import Realisations from "./components/Realisations"
+
 
 function App() {
   return (
@@ -21,6 +23,7 @@ function App() {
         </div>
         <div className="main">
           <Profil />
+          <Realisations />
           <FormationsExperiences />
         </div>
       </div>
