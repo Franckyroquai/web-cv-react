@@ -11,22 +11,22 @@
 
     /* colors */
     --body-bg-color: #ffffff;
-    --sidebar-bg-color: #f4f4f4;
+    --sidebar-bg-color:#ECF8F6 ;
     --text-color: #333333;
-    --title-color: #111111;
-    --date-color: #1f94c2;
-    --dark-body-bg-color: #242424;
-    --dark-sidebar-bg-color: #171717;
+    --title-color: #18534F;
+    --date-color: #08C5D1;
+    --dark-body-bg-color:#4e4f4d     ;
+    --dark-sidebar-bg-color:#27352A   ;
     --dark-text-color: #d8d8d8;
-    --dark-title-color: #ffffff;
-    --dark-date-color: #e6ef71;
+    --dark-title-color: #82C46C;
+    --dark-date-color: #08C5D1;
 
-    --icon-color: var(--text-color);
-    --circle-color: #AAA;
-    --circle-color-plain: #555;
-    --dark-icon-color: var(--dark-text-color);
-    --dark-circle-color: rgb(108, 108, 108);
-    --dark-circle-color-plain: rgb(238, 238, 238);
+    --icon-color: #18534F;
+    --circle-color: #B0B9A8;
+    --circle-color-plain: #18534F;
+    --dark-icon-color: #82C46C;
+    --dark-circle-color: #ECF8F6;
+    --dark-circle-color-plain: #82C46C;
 
 
     /* fonts */
@@ -71,6 +71,7 @@ h1, h2, h3 {
 h1 {
   font-size: var(--h1-font-size);
   text-transform: uppercase;
+  
 }
 
 h2 {
@@ -83,7 +84,9 @@ h2 {
 }
 
 h3 {
+  font-size: var(--h3-font-size);
   margin-bottom: var(--spacing-4);
+  color: var(--text-color);
 }
 
 .VValentin {
@@ -110,7 +113,11 @@ button {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: var(--text-color);
+}
+
+.dark a {
+  color: var(--dark-text-color);
 }
 
 p {
@@ -156,8 +163,24 @@ li {
 /* layouts */
 
 .sidebar {
+  position: relative;
   padding: 1.5rem;
   background-color: var(--sidebar-bg-color);
+}
+
+.sidebar::before {
+ /* position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  content: '';
+  display: block;
+  width: 100%;
+  height: 120px;
+  background-color: #4AA3A2;*/
+  /*clip-path: polygon(0 0, 100% 0%, 100% 69%, 0% 100%);*/
+  /*border-radius: 0% 100% 100% 0% / 0% 0% 100% 100% ;*/
+  /* clip-path: polygon(0 0, 100% 1%, 100% 100%, 75% 86%, 25% 86%, 0 100%); */
 }
 
 .dark .sidebar {
@@ -165,6 +188,7 @@ li {
 }
 
 .actions {
+  position: relative;
   display: flex;
   justify-content: space-between;
 }
