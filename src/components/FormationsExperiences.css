@@ -15,6 +15,10 @@
     color: var(--date-color);
 }
 
+.dark .grid__location {
+    color: var(--dark-date-color);
+}
+
 .grid__mission {
     margin-bottom: var(--spacing-3);
 }
