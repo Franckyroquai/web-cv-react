@@ -15,7 +15,7 @@ function App() {
         <div className="sidebar">
           <div className="actions">
             <DarkMode />
-            <button>pdf</button>
+            {/* <button>pdf</button> */}
           </div>
           
           <User />
@@ -27,12 +27,6 @@ function App() {
           <FormationsExperiences />
         </div>
       </div>
-
-      {/* react, material ui, react-html2pdf */
-      
-
-      /* light/dark mode */
-      /* generation pdf */}
     </div>
   );
 }
