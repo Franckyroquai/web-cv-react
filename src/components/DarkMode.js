@@ -40,12 +40,14 @@ function DarkMode() {
     id="darkMode"
     onClick={e => switchTheme(e)}>
         {themeMode === "light" || theme === "light" ? (
-            <Brightness2OutlinedIcon />
+            <p className="user__info">
+                <Brightness2OutlinedIcon />
+            </p>
          ) : (
-            <LightModeIcon />
+            <p className="user__info">
+                <LightModeIcon />
+            </p>
         )}
-    
-    
     </button>
     )
 }
