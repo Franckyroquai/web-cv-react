@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/franck-monge-cv/static/css/main.90bea01d.css",
-    "main.js": "/franck-monge-cv/static/js/main.3867d2d7.js",
+    "main.css": "/franck-monge-cv/static/css/main.acd26ec3.css",
+    "main.js": "/franck-monge-cv/static/js/main.aa009916.js",
     "static/js/787.579b3fbe.chunk.js": "/franck-monge-cv/static/js/787.579b3fbe.chunk.js",
     "index.html": "/franck-monge-cv/index.html",
-    "main.90bea01d.css.map": "/franck-monge-cv/static/css/main.90bea01d.css.map",
-    "main.3867d2d7.js.map": "/franck-monge-cv/static/js/main.3867d2d7.js.map",
+    "main.acd26ec3.css.map": "/franck-monge-cv/static/css/main.acd26ec3.css.map",
+    "main.aa009916.js.map": "/franck-monge-cv/static/js/main.aa009916.js.map",
     "787.579b3fbe.chunk.js.map": "/franck-monge-cv/static/js/787.579b3fbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90bea01d.css",
-    "static/js/main.3867d2d7.js"
+    "static/css/main.acd26ec3.css",
+    "static/js/main.aa009916.js"
   ]
 }
