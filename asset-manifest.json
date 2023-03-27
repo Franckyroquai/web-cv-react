@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/franck-monge-cv/static/css/main.90bea01d.css",
+    "main.js": "/franck-monge-cv/static/js/main.3867d2d7.js",
+    "static/js/787.579b3fbe.chunk.js": "/franck-monge-cv/static/js/787.579b3fbe.chunk.js",
+    "index.html": "/franck-monge-cv/index.html",
+    "main.90bea01d.css.map": "/franck-monge-cv/static/css/main.90bea01d.css.map",
+    "main.3867d2d7.js.map": "/franck-monge-cv/static/js/main.3867d2d7.js.map",
+    "787.579b3fbe.chunk.js.map": "/franck-monge-cv/static/js/787.579b3fbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90bea01d.css",
+    "static/js/main.3867d2d7.js"
+  ]
+}
