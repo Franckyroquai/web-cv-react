@@ -2,7 +2,7 @@
   "name": "web-cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://franckyroquai.github.io/franck-monge-cv",
+  "homepage": "https://franckyroquai.github.io/web-cv-react",
 
   "dependencies": {
     "@emotion/react": "^11.10.6",
