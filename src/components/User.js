@@ -3,7 +3,7 @@ import "./User.css"
 import HouseIcon from '@mui/icons-material/House';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
 import EmailIcon from '@mui/icons-material/Email';
-import profil from '../Images/id2.png'
+import profil from '../Images/Idfb3.jpg'
 
   function User() {
     return (
