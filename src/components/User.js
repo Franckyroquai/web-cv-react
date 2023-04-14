@@ -3,11 +3,11 @@ import "./User.css"
 import HouseIcon from '@mui/icons-material/House';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
 import EmailIcon from '@mui/icons-material/Email';
-import profil from '../Images/Idfb3.jpg'
+import profil from '../Images/Idfb1.jpg'
 
   function User() {
     return (
-      <div className="user">
+      <div className="user" translate="no">
         <img src={profil} alt="" className="user__avatar"/>
         <h1 className="user__name">Franck Monge</h1>
         <p className="user__profession">Développeur Web</p>
