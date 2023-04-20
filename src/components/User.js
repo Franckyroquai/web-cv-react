@@ -10,7 +10,7 @@ import profil from '../Images/Idfb1.jpg'
       <div className="user" translate="no">
         <img src={profil} alt="" className="user__avatar"/>
         <h1 className="user__name">Franck Monge</h1>
-        <p className="user__profession">Développeur Web</p>
+        <p className="user__profession">Développeur Web Full-Stack Junior</p>
         <div className="user__infos">
             <p className="user__info"><HouseIcon />300 Avenue Amiral Collet<br/>83000 Toulon</p>
             <p className="user__info"><SmartphoneIcon /><a href="tel:+33612647582">06 12 64 75 82</a></p>
