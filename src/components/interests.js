@@ -3,6 +3,7 @@ import KeyboardIcon from '@mui/icons-material/Keyboard';
 import MovieIcon from '@mui/icons-material/Movie';
 import DirectionsBikeIcon from '@mui/icons-material/DirectionsBike';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
+import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 
 function interests() {
   return (
@@ -25,6 +26,7 @@ function interests() {
             <p className="user__info"><MovieIcon />Cinéma</p>
             <p className="user__info"><DirectionsBikeIcon />V.T.T.</p>
             <p className="user__info"><MusicNoteIcon />Guitare</p>
+            <p className="user__info"><SportsEsportsIcon />Jeux Vidéos</p>
         </div>    
     </div>
   )
