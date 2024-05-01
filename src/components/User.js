@@ -14,7 +14,7 @@ import profil from '../Images/Idfb1.jpg'
         <div className="user__infos">
             <p className="user__info"><HouseIcon />300 Avenue Amiral Collet<br/>83000 Toulon</p>
             <p className="user__info"><SmartphoneIcon /><a href="tel:+33612647582">06 12 64 75 82</a></p>
-            <p className="user__info"><EmailIcon /><a href="mailto:franckyroquai@gmail.com">Franckyroquai@gmail.com</a></p>
+            <p className="user__info"><EmailIcon /><a href="mailto:franck.monge.pro@gmail.com">Franck.monge.pro@gmail.com</a></p>
             
         </div>
       </div>
