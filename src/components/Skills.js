@@ -9,6 +9,7 @@ function Skills() {
     <>
         <div className="skills">
             <h2 className="h2">Compétences</h2>
+            <Skill title="GitHub" rating="4" />      
             <Skill title="HTML" rating="5" />      
             <Skill title="CSS" rating="4" />      
             <Skill title="JavaScript" rating="3" />
