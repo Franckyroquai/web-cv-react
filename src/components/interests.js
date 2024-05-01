@@ -3,7 +3,9 @@ import KeyboardIcon from '@mui/icons-material/Keyboard';
 import MovieIcon from '@mui/icons-material/Movie';
 import DirectionsBikeIcon from '@mui/icons-material/DirectionsBike';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
-import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
+import PublicIcon from '@mui/icons-material/Public';
+import FlightIcon from '@mui/icons-material/NordicWalking';
+//import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 
 function interests() {
   return (
@@ -22,11 +24,11 @@ function interests() {
             <MusicNoteIcon style={{ fontsize: 40 }} />
         </div>*/}
         <div className="user__infos">
-            <p className="user__info"><KeyboardIcon />Informatique</p>
-            <p className="user__info"><MovieIcon />Cinéma</p>
-            <p className="user__info"><DirectionsBikeIcon />V.T.T.</p>
-            <p className="user__info"><MusicNoteIcon />Guitare</p>
-            <p className="user__info"><SportsEsportsIcon />Jeux Vidéos</p>
+            <p className="user__info"><KeyboardIcon />L'informatique, la technologie</p>
+            <p className="user__info"><PublicIcon />Les voyages (Europe)</p>
+            <p className="user__info"><DirectionsBikeIcon /> Le V.T.T.</p>
+            <p className="user__info"><MusicNoteIcon />La guitare</p>
+            <p className="user__info"><MovieIcon />Le cinéma</p>
         </div>    
     </div>
   )
