@@ -4,7 +4,7 @@ import MovieIcon from '@mui/icons-material/Movie';
 import DirectionsBikeIcon from '@mui/icons-material/DirectionsBike';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import PublicIcon from '@mui/icons-material/Public';
-import FlightIcon from '@mui/icons-material/NordicWalking';
+//import FlightIcon from '@mui/icons-material/NordicWalking';
 //import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 
 function interests() {
