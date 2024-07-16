@@ -18,6 +18,7 @@ function Skills() {
             <Skill title="React" rating="3" />
             <Skill title="Vue.JS" rating="3" />     
             <Skill title="Node.JS" rating="3" />      
+            <Skill title="Symfony" rating="3" />      
         </div>
         <div className="skills">
             <h2 className="h2">Langues</h2>
