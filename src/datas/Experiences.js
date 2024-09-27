@@ -2,7 +2,7 @@ const dataExperiences = [
     {
         id:1,
         title:"Développeur Web et Web-Mobile",
-        date:"2021 - 2022",
+        duree:"1 An",
         location:"AFPA - La Valette du Var",
         text:`Formation au métier de développeur web et web-mobile`,
         missions: [
@@ -23,9 +23,9 @@ const dataExperiences = [
     {
         id:2,
         title:"Technicien nautique",
-        date:"2018",
+        duree:"7 Semaines",
         location:"KIRIACOULIS POINT D’AMURE - Bormes les Mimosas",
-        text:`Stage de 7 semaines dans le cadre d'un baccalauréat électronique`,
+        text:`Stage effectué dans le cadre d'un baccalauréat électronique`,
         missions: [
             {
                 id:1,
@@ -40,7 +40,7 @@ const dataExperiences = [
     {
         id:3,
         title:"Gestionnaire sinistres / Conseiller en assurances",
-        date:"2000 - 2019",
+        duree:"20 Ans",
         location:"MATMUT - Toulon",
         text:`CDI`,
         missions: [
@@ -61,7 +61,7 @@ const dataExperiences = [
     {
         id:4,
         title:"Guichetier",
-        date:"2000",
+        duree:"2 Mois",
         location:"CREDIT AGRICOLE - Cavalaire sur Mer",
         text:`CDD`,
         missions: [
@@ -82,7 +82,7 @@ const dataExperiences = [
     {
         id:5,
         title:"Chargé de portefeuille locations saisonnières",
-        date:"1997 - 1999",
+        duree:"8 Mois",
         location:"AGENCE IMMOBILIERE LA SOLEIADE - Le Lavandou",
         text:`Saisons estivales`,
         missions: [
@@ -103,7 +103,7 @@ const dataExperiences = [
     {
         id:6,
         title:"Etude de lancement commercial d’un téléphone portable innovant",
-        date:"1998 - 1999",
+        duree:"10 Mois",
         location:"UNIVERSITE DE COVENTRY (Angleterre)",
         text:`Projet d'étude`,
         missions: [
@@ -124,7 +124,7 @@ const dataExperiences = [
     {
         id:7,
         title:"Plagiste",
-        date:"1993 - 1996",
+        duree:"8 Mois",
         location:"TAHITI PLAGE - St Clair",
         text:`Saisons estivales`,
         missions: [

@@ -2,8 +2,14 @@
     margin-bottom: var(--spacing-1);
 }
 
-.grid__date {
+.grid__niveau {
     font-weight: 500;
+    font-style: italic;
+}
+
+.grid__duree {
+    font-weight: 500;
+    font-style: italic;
 }
 
 .grid__title {
