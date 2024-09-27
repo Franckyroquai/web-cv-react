@@ -7,7 +7,7 @@ function Experiences({datas}) {
         {datas.map(item => (
         <div className="grid__row" key={item.id}>
             <div className="grid__item">
-                <p className="grid__niveau">{item.niveau}</p>
+                <p className="grid__duree">{item.duree}</p>
             </div>
             <div className="grid__item">
                 <h3 className="grid__title">{item.title}</h3>
