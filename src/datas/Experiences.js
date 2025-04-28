@@ -1,6 +1,27 @@
 const dataExperiences = [
     {
         id:1,
+        title:"Développeur Web & Logiciel Junior",
+        duree:"2025",
+        location:"Assocation déclarée - Toulon",
+        text:`CDI`,
+        missions: [
+            {
+                id:1,
+                title: "Mises à jour, améliorations et débogage d’un des sites de l'association au sein d’une équipe réactive aux besoins métier.",
+            },
+            {
+                id:2,
+                title: "Aide à la rédaction de fiches de procédures en Markdown (installation et configuration d'environnement Node.js).",
+            },
+            {
+                id:3,
+                title: "Assistance à la sécurisation en urgence d’une API critique suite à une cyberattaque.",
+            },
+        ],
+    },
+    {
+        id:1,
         title:"Développeur Web et Web-Mobile",
         duree:"1 An",
         location:"AFPA - La Valette du Var",

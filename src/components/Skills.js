@@ -24,6 +24,7 @@ function Skills() {
             <Skill title="WordPress" rating="4" />      
             <Skill title="UI / UX" rating="3" />           
             <Skill title="SEO" rating="3" />           
+            <Skill title="Jira" rating="4" />           
         </div>
         <div className="skills">
             <h2 className="h2">Langues</h2>
