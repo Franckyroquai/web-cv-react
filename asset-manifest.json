@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/web-cv-react/static/css/main.f3ddd4ac.css",
-    "main.js": "/web-cv-react/static/js/main.0e42381f.js",
-    "static/js/453.b1154c94.chunk.js": "/web-cv-react/static/js/453.b1154c94.chunk.js",
+    "main.css": "/web-cv-react/static/css/main.a67bf45d.css",
+    "main.js": "/web-cv-react/static/js/main.a1602822.js",
+    "static/js/787.579b3fbe.chunk.js": "/web-cv-react/static/js/787.579b3fbe.chunk.js",
     "static/media/Idfb1.jpg": "/web-cv-react/static/media/Idfb1.426a6cb993ea6cc75f83.jpg",
     "index.html": "/web-cv-react/index.html",
-    "main.f3ddd4ac.css.map": "/web-cv-react/static/css/main.f3ddd4ac.css.map",
-    "main.0e42381f.js.map": "/web-cv-react/static/js/main.0e42381f.js.map",
-    "453.b1154c94.chunk.js.map": "/web-cv-react/static/js/453.b1154c94.chunk.js.map"
+    "main.a67bf45d.css.map": "/web-cv-react/static/css/main.a67bf45d.css.map",
+    "main.a1602822.js.map": "/web-cv-react/static/js/main.a1602822.js.map",
+    "787.579b3fbe.chunk.js.map": "/web-cv-react/static/js/787.579b3fbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ddd4ac.css",
-    "static/js/main.0e42381f.js"
+    "static/css/main.a67bf45d.css",
+    "static/js/main.a1602822.js"
   ]
 }
